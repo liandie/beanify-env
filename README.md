@@ -1,9 +1,9 @@
-# beanify-ajv
+# beanify-env
 
 ## install
 
 ```
-npm i beanify-ajv
+npm i beanify-env
 ```
 
 ## usage 
