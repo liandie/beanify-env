@@ -6,6 +6,10 @@
 npm i beanify-env
 ```
 
+## options
+
+* [env-schema](https://github.com/fastify/env-schema)
+
 ## usage 
 
 ```
