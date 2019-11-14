@@ -1,0 +1,30 @@
+{
+  "name": "beanify-env",
+  "version": "1.0.0",
+  "description": "beanify-env",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.test.js --100 --cov --coverage-report=text",
+    "unit": "tap test/*.test.js --100 --cov --coverage-report=lcov"
+  },
+  "keywords": [
+    "beanify",
+    "beanify-plugin",
+    "beanify-env",
+    "micro-service"
+  ],
+  "author": "beanjs",
+  "license": "MIT",
+  "dependencies": {
+    "beanify-plugin": "^1.0.3",
+    "env-schema": "^1.1.0"
+  },
+  "devDependencies": {
+    "beanify": "^1.0.7",
+    "tap": "^14.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beanjs-framework/beanify-env.git"
+  }
+}
