@@ -1,5 +1,7 @@
 # beanify-env
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/beanjs-framework/beanify-env.svg)](https://greenkeeper.io/)
+
 ## install
 
 ```
